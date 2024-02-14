@@ -2,7 +2,7 @@
 
 # Pro4U
 
-### __A platform for schedule appointments with private professionals_
+### A platform for schedule appointments with private professionals_
 
 The application is a social network that makes it possible to schedule appointments with private professionals (cosmetologists/plumbers/tinsmiths/glaziers/gardeners, etc.) throughout the country.
 Professionals can add to their user page the types of work done, products for sale and their price.
